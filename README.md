@@ -1,14 +1,12 @@
-Financial Tracker Console Application
-
+## VideoGame API Starter
 ## Description of the Project
 This project is a backend Spring Boot API for an e-commerce platform. It provides functionality for user authentication, product browsing and filtering, category management, and shopping cart operations. The API is designed to support a frontend application (such as a web or mobile client) and uses JWT authentication for secure access to protected endpoints.
 ## User Stories
-- As a user, I want to be able to input my data, so that the application can process it accordingly.
-- As a user, I want to receive immediate feedback, so I can understand what to do next.
-- As a user, I want to add deposits and payments, so that I can keep track of my financial transactions.
-- As a user, I want to view all transactions in a ledger, so that I can monitor my financial activity.
-- As a user, I want to generate reports for specific time periods, so I can analyze my financial trends.
-
+- As a user, I want to input my financial data, so the application can process it accurately.
+- As a user, I want to receive immediate feedback, so I can understand the next steps.
+- As a user, I want to add deposits and payments, so I can track all transactions.
+- As a user, I want to view all transactions in a ledger, so I can monitor my financial activity.
+- As a user, I want to generate reports for specific time periods, so I can analyze financial trends.
 ## Setup
 
 Instructions on how to set up and run the project using IntelliJ IDEA.
@@ -36,17 +34,22 @@ Follow these steps to get your application running within IntelliJ IDEA:
 ## Demo
 ![Screenshot 2025-12-19 at 4.10.37 AM.png](Screenshot%202025-12-19%20at%204.10.37%E2%80%AFAM.png)
 ![Screenshot 2025-12-19 at 4.10.25 AM.png](Screenshot%202025-12-19%20at%204.10.25%E2%80%AFAM.png)
-![Screenshot 2025-12-19 at 4.10.37 AM.png](Screenshot%202025-12-19%20at%204.10.37%E2%80%AFAM.png)
+![Screenshot 2025-12-19 at 9.21.19 AM.png](Screenshot%202025-12-19%20at%209.21.19%E2%80%AFAM.png)
+
+## Features
+1. Add deposits and payments.
+2. View a complete transaction ledger.
+3. Generate financial reports for specific time frames.
+4. Immediate feedback for user actions.
+5. 
 ## Future Work
-
-Outline potential future enhancements or functionalities you might consider adding:
-
-- Add the ability to categorize transactions (e.g., groceries, bills, entertainment). 
-- Export reports to CSV or PDF for external use. 
-- Add password protection or user authentication. 
-- Integrate charts for visual financial analysis. 
-- Implement recurring transactions to automate common deposits or payments.
-- Improvement of current functionalities.
+Future Enhancements
+1. Categorize transactions (e.g., groceries, bills, entertainment).
+2. Export reports to CSV or PDF.
+3. Add user authentication with password protection.
+4. Integrate charts for visual financial analysis.
+5. Implement recurring transactions for automation.
+6. Improve existing functionalities based on user feedback.
 
 ## Resources
 
