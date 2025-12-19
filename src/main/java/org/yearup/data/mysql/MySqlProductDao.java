@@ -31,7 +31,7 @@ public class MySqlProductDao extends MySqlDaoBase implements ProductDao
 
         categoryId = categoryId == null ? -1 : categoryId;
         minPrice = minPrice == null ? new BigDecimal("-1") : minPrice;
-        maxPrice = maxPrice == null ? new BigDecimal("-1") : maxPrice;
+        maxPrice = maxPrice == null ? new BigDecimal("999999999") : maxPrice;
         subCategory = subCategory == null ? "" : subCategory;
 
         try (Connection connection = getConnection())
