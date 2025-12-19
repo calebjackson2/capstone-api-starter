@@ -1,8 +1,7 @@
 Financial Tracker Console Application
 
 ## Description of the Project
-This application allows users to track their personal finances by recording deposits and payments. It provides a clear ledger of all transactions, along with reports filtered by date ranges or specific vendors. 
-The main functionality includes adding deposits and payments, viewing the ledger, and generating pre-defined and custom financial reports.
+This project is a backend Spring Boot API for an e-commerce platform. It provides functionality for user authentication, product browsing and filtering, category management, and shopping cart operations. The API is designed to support a frontend application (such as a web or mobile client) and uses JWT authentication for secure access to protected endpoints.
 ## User Stories
 - As a user, I want to be able to input my data, so that the application can process it accordingly.
 - As a user, I want to receive immediate feedback, so I can understand what to do next.
@@ -35,9 +34,9 @@ Follow these steps to get your application running within IntelliJ IDEA:
 - Any additional libraries or frameworks used in the project.
 
 ## Demo
-
-![Screenshot 2025-10-17 at 9.07.42 AM.png](Screenshot%202025-10-17%20at%209.07.42%E2%80%AFAM.png)
-
+![Screenshot 2025-12-19 at 4.10.37 AM.png](Screenshot%202025-12-19%20at%204.10.37%E2%80%AFAM.png)
+![Screenshot 2025-12-19 at 4.10.25 AM.png](Screenshot%202025-12-19%20at%204.10.25%E2%80%AFAM.png)
+![Screenshot 2025-12-19 at 4.10.37 AM.png](Screenshot%202025-12-19%20at%204.10.37%E2%80%AFAM.png)
 ## Future Work
 
 Outline potential future enhancements or functionalities you might consider adding:
